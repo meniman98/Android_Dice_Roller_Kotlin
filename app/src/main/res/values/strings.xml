@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Dice Roller</string>
+    <string name="hello">Hello</string>
+    <string name="roll_the_dice">Roll the Dice</string>
+</resources>
